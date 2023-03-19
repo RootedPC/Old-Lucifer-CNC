@@ -1,0 +1,24 @@
+{
+    "ListenerStat" : ":998",
+    "AppName" : "Priority",
+    "Owners" : ["bubbles", "vmfe", "cupid"],
+
+    "ProxyServer" : {
+        "DialTarget" : ":9982",
+        "DialProtocol" : "tcp4",
+        "DialTimeout" : 2
+    },
+
+    "sec" : {
+        "ConnectionsPerIP" : 1,
+        "whitelists" : {
+            "status" : false,
+            "hosts" : []
+        },
+
+        "blacklists" : {
+            "status" : false,
+            "hosts" : ["127.0.0.1"]
+        }
+    }
+}

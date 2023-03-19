@@ -1,0 +1,7 @@
+[Dupe Session] -> [Username: vmfe] -> [IP: 127.0.0.1] -> [Date and Time: Dec 29 2021 16:40:22]
+[Dupe Session] -> [Username: root] -> [IP: 127.0.0.1] -> [Date and Time: Dec 29 2021 16:45:41]
+[Dupe Session] -> [Username: vmfe] -> [IP: 127.0.0.1] -> [Date and Time: Dec 30 2021 21:59:31]
+[Dupe Session] -> [Username: Vmfe] -> [IP: 127.0.0.1] -> [Date and Time: Dec 30 2021 22:00:07]
+[Dupe Session] -> [Username: vmfe] -> [IP: 127.0.0.1] -> [Date and Time: Dec 30 2021 22:02:38]
+[Dupe Session] -> [Username: test] -> [IP: 127.0.0.1] -> [Date and Time: Jan 01 2022 18:01:44]
+[Dupe Session] -> [Username: vmfe] -> [IP: 127.0.0.1] -> [Date and Time: Jan 10 2022 06:10:16]

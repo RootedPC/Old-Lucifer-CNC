@@ -1,0 +1,69 @@
+{
+    "apiport" : ":8080",
+    "apikey" : "vmfeEntaysAdminKey101",
+
+    "timeout" : 3,
+
+    "whitelisting" : {
+        "Whitelist" : false,
+        "Whitelists" : [
+            "127.0.0.1"
+        ]
+    },
+
+    "blacklists" : [
+        "1.1.1.1",
+        "fbi.gov",
+        "https://beta.welovecloudflare.de",
+        "117.27.239.6",
+        "117.27.239.45",
+        "23.227.144.50",
+        "78.108.216.11",
+        "5.189.170.142",
+        "207.154.222.90",
+        "198.12.225.107",
+        "162.55.44.17",
+        "135.181.45.33",
+        "2.59.134.89",
+        "45.138.72.61",
+        "135.125.160.56",
+        "94.23.177.233",
+        "135.125.188.124",
+        "139.99.181.30",
+        "137.74.65.165",
+        "149.56.5.39",
+        "51.15.1.185",
+        "188.127.239.24",
+        "185.85.196.1",
+        "195.85.201.183",
+        "178.175.130.42",
+        "179.61.251.192",
+        "5.254.40.21",
+        "108.61.192.68"
+    ],
+
+
+    "methods" : [
+        {
+            "name" : "ALLMETHODS",
+            "apis" : [
+                {
+                    "method" : "DNS",
+                    "target" : "[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 300
+                },
+                {
+                    "method" : "LDAP",
+                    "target" : "[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 300
+                }
+            ]
+        }
+    ]
+}

